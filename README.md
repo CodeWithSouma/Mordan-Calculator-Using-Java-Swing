@@ -1,12 +1,14 @@
 # Mordan Calculator Using Java Swing 
+![JDK](https://img.shields.io/badge/JDK-jdk--8u251-orange)       ![NetBans](https://img.shields.io/badge/NetBeans-v--8.2-blue)
+
 ## This  a simple calculator using java swing 
 
 ## Feature of this calculator :
-        1. Calculate Sum
-        2. Calculate subtraction
-        3. Calculate Division
-        4. Calculate Multiplication	
-        5. Calculate Percentage
+- Calculate Sum
+- Calculate subtraction
+- Calculate Division
+- Calculate Multiplication
+- Calculate Percentage
 
 ---
 ## Steps to configure this project in your local machine:
@@ -21,19 +23,22 @@
 
 *3. Open your git bash and Clone the repository*
 
->git clone https://github.com/CodeWithSouma/Mordan-Calculator-Using-Java-Swing.git
+``` git
+git clone https://github.com/CodeWithSouma/Mordan-Calculator-Using-Java-Swing.git
+```
 
 *4. Open Netbeans and then Open Project*
 
 ---
 ## Screenshot
 
-![Calculator image](https://github.com/CodeWithSouma/Mordan-Calculator-Using-Java-Swing/blob/master/Screenshot/swing_calculator.png)
+*![Calculator image](https://github.com/CodeWithSouma/Mordan-Calculator-Using-Java-Swing/blob/master/Screenshot/swing_calculator.png)*
 
 ---
 ## LICENSE
 
-[Apache License 2.0](.\LICENSE.txt "Apache License 2.0")
+***[Apache License 2.0](https://github.com/CodeWithSouma/Mordan-Calculator-Using-Java-Swing/blob/master/LICENSE.txt "Apache License 2.0")***
+
 ---
 
 
