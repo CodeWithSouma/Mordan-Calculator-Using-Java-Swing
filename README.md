@@ -1,5 +1,5 @@
 # Mordan Calculator Using Java Swing 
-## This is a simple calculator using java swing 
+## This  a simple calculator using java swing 
 
 ## Feature of this calculator :
         1. Calculate Sum
